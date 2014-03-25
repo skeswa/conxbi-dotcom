@@ -1,0 +1,6 @@
+run/generated
+.gradle
+gradle
+webshop.admin.general.ui/build
+*/build
+release
